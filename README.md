@@ -24,7 +24,7 @@ Uma mão de poker pode possuir diversas combinações que são:
 * Um Par: Duas cartas do mesmo valor, e três outras cartas não relacionadas.
 * Carta Alta: Qualquer mão que não esteja nas categorias acima.
 
-Durante o jogo é possivel que os jogadores possuem a mesma combinação e dessa forma é necessario estabelecer criterios de desempate.
+Durante o jogo é possível que os jogadores possuem a mesma combinação e dessa forma é necessário estabelecer critérios de desempate.
 
 Esse código foi desenvolvido para automatizar esse processo e evitar erros durante a verificação.
 
@@ -49,7 +49,7 @@ Lista de classes abstratas com as assinaturas dos métodos:
 * interface/Hand
 * interface/Card
 
-Classes com variaveis de opoio:
+Classes com variáveis de apoio:
 
 * settings/Common
 * settings/Result
@@ -63,15 +63,19 @@ Classe dos objetos do poker
 * core/CardPoker
 * core/PokeHand
 
-Classe de verificação individual dos metódos de combinação.
+Classe de verificação individual dos métodos de combinação.
 
-# Saida do código
+# Saída do código
 
 Teste individual
 
+<p align="center"><img src="https://github.com/anselmomendes/Poker-Hand-Value-Ratings/raw/test/docs/img02.png" width="100" height="100"></p>
 
 Execução do Teste
 
+<p align="center"><img src="https://github.com/anselmomendes/Poker-Hand-Value-Ratings/raw/test/docs/img03.png" width="100" height="100"></p>
+
+<p align="center"><img src="https://github.com/anselmomendes/Poker-Hand-Value-Ratings/raw/test/docs/img04.png" width="100" height="100"></p>
 
 ## Autor
 
