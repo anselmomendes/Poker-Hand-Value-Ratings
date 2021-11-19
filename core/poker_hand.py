@@ -284,15 +284,15 @@ class PokerHand(Hand):
     
     
     
-    def high_card(self) -> int:
+    def high_card(self) -> float:
         aux = []
         aux.append(Common.VALUE_CARD[self.df.values[0][0]])
         aux.append(Common.VALUE_CARD[self.df.values[1][0]])
         aux.append(Common.VALUE_CARD[self.df.values[2][0]])
         aux.append(Common.VALUE_CARD[self.df.values[3][0]])
         aux.append(Common.VALUE_CARD[self.df.values[4][0]])
-        aux = pd.DataFrame(aux, columns=['aux'], dtype= int)
-        return aux['aux'].max()
+        aux1 = pd.DataFrame(aux, columns=['aux'], dtype= float)
+        return aux1['aux'].max()
 
 
 
@@ -303,5 +303,5 @@ class PokerHand(Hand):
         aux.append(Common.VALUE_CARD[self.df.values[2][0]])
         aux.append(Common.VALUE_CARD[self.df.values[3][0]])
         aux.append(Common.VALUE_CARD[self.df.values[4][0]])
-        aux = pd.DataFrame(aux, columns=['aux'], dtype= int)
+        aux = pd.DataFrame(aux, columns=['aux'], dtype= float)
         return aux
