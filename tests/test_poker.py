@@ -1,8 +1,12 @@
 import sys
-sys.path.insert(0,'../challenge/')
+
+import sys,os
+sys.path.append(os.getcwd())
+
 import unittest
-from core.poker_hand import PokerHand
 from settings.result import Result
+from core.poker_hand import PokerHand
+
 
 #Unit test using Unittest which checks which hand is the strongest
 class TestPoker(unittest.TestCase):
