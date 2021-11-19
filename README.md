@@ -69,13 +69,13 @@ Classe de verificação individual dos métodos de combinação.
 
 Teste individual
 
-<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img02.png" width="100" height="100"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1I2kE-1yVV6UKKwasriFMzGef8dT7yP8A/view?usp=sharing" width="100" height="100"></p>
 
 Execução do Teste
 
-<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img03.png" width="100" height="100"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1hcuJ0hyXGjIU-dISBJwa6EwzYGqJzsPi/view?usp=sharing" width="100" height="100"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img04.png" width="100" height="100"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1V3AV6aOKGEVbCxTD0Z1Xv-8eJOcEN2en/view?usp=sharing" width="100" height="100"></p>
 
 ## Autor
 
