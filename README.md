@@ -73,9 +73,9 @@ Teste individual
 
 Execução do Teste
 
-<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img03.png" width="80%"></p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img04.png" width="80%"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/Poker-Hand-Value-Ratings/test/docs/img03.png" width="80%"></p>
 
 ## Autor
 
